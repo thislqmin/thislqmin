@@ -9,9 +9,10 @@
 ## Education:
 
 #### 1. [Universitas Amikom Yogyakarta](https://home.amikom.ac.id) | D3 Informatics Engineering | Yogyakarta `2021-now`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
+   - Asistant Laboratorium of IT Essentials and Computer Installation
+   - Asistant Laboratorium of Algotithms and Programming
+   - Asistant Laboratorium of Web Design 1
+   - Asistant Laboratorium of Computer Network 1
  
  #### 2. [SMK Muhammadiyah 3 Banjarmasin]([https://smkm3bjm.sch.id]) | Teknik Komputer & Jaringan | Banjarmasin `2018-2021`
    - Chief of Rohkris
