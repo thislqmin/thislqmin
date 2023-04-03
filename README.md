@@ -10,15 +10,13 @@
 
 #### 1. [Universitas Amikom Yogyakarta](https://home.amikom.ac.id) | D3 Informatics Engineering | Yogyakarta `2021-now`
    - Asistant Laboratorium of IT Essentials and Computer Installation
-   - Asistant Laboratorium of Algotithms and Programming
+   - Asistant Laboratorium of Algorithms and Programming
    - Asistant Laboratorium of Web Design 1
    - Asistant Laboratorium of Computer Network 
 
  #### 2. Organizational Experience
    - event committee amikom computer club goes to school | Division Publication,Decoration,Documentation `2021`
-   - Asistant Laboratorium of Algotithms and Programming
-   - Asistant Laboratorium of Web Design 1
-   - Asistant Laboratorium of Computer Network 
+   - event committee Competition of Developers | Public Relations `2021`
  
  #### 3. [SMK Muhammadiyah 3 Banjarmasin]([https://smkm3bjm.sch.id]) | Teknik Komputer & Jaringan | Banjarmasin `2018-2021`
    - Member of Basketball
