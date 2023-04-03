@@ -18,7 +18,7 @@
    - event committee amikom computer club goes to school | Division Publication,Decoration,Documentation `2021`
    - event committee Competition of Developers | Public Relations `2021`
  
- #### 3. [SMK Muhammadiyah 3 Banjarmasin]([https://smkm3bjm.sch.id]) | Teknik Komputer & Jaringan | Banjarmasin `2018-2021`
+ #### 4. [SMK Muhammadiyah 3 Banjarmasin](https://smkm3bjm.sch.id/) | Teknik Komputer & Jaringan | Banjarmasin `2018-2021`
    - Member of Basketball
 
 #### 4. [PT. Telekomunikasi Indonesia Banjarmasin](https://portal.pln.co.id) | Student Intern | Banjarmasin `2019-2019`
