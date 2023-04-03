@@ -13,11 +13,17 @@
    - Asistant Laboratorium of Algotithms and Programming
    - Asistant Laboratorium of Web Design 1
    - Asistant Laboratorium of Computer Network 
+
+ #### 2. Organizational Experience
+   - event committee amikom computer club goes to school | Division Publication,Decoration,Documentation `2021`
+   - Asistant Laboratorium of Algotithms and Programming
+   - Asistant Laboratorium of Web Design 1
+   - Asistant Laboratorium of Computer Network 
  
- #### 2. [SMK Muhammadiyah 3 Banjarmasin]([https://smkm3bjm.sch.id]) | Teknik Komputer & Jaringan | Banjarmasin `2018-2021`
+ #### 3. [SMK Muhammadiyah 3 Banjarmasin]([https://smkm3bjm.sch.id]) | Teknik Komputer & Jaringan | Banjarmasin `2018-2021`
    - Member of Basketball
 
-#### 3. [PT. Telekomunikasi Indonesia Banjarmasin](https://portal.pln.co.id) | Student Intern | Banjarmasin `2019-2019`
+#### 4. [PT. Telekomunikasi Indonesia Banjarmasin](https://portal.pln.co.id) | Student Intern | Banjarmasin `2019-2019`
    - Manage to update CAD of distribution lines using AutoCAD
    - Manage to recap fault in distribution network
    - Research on Maintenance of 20 kV Cubicle in Pemalang
