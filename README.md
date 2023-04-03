@@ -1,10 +1,10 @@
 # Hi there, I'm Luqman - a.k.a [thislqmin] 👋
 ## About me:
-- 🌱 I’m currently learning PHP and Laravel
+- 🌱 I’m currently learning Laravel & Angular
 - 👯 I’m looking to collaborate as Web Developers
 - 🤔 I’m looking for suggest for Web FrontEnd Developer
-- 💬 Ask me about anything
 - 📫 How to reach me: luqmnlhkim1529@gmail.com
+- 💬 Ask me about anything
 
 ## Education:
 
@@ -15,7 +15,7 @@
    - Asistant Laboratorium of Computer Network 
  
  #### 2. [SMK Muhammadiyah 3 Banjarmasin]([https://smkm3bjm.sch.id]) | Teknik Komputer & Jaringan | Banjarmasin `2018-2021`
-   - Chief of Rohkris
+   - Member of Basketball
 
 #### 3. [PT. Telekomunikasi Indonesia Banjarmasin](https://portal.pln.co.id) | Student Intern | Banjarmasin `2019-2019`
    - Manage to update CAD of distribution lines using AutoCAD
@@ -34,17 +34,13 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](linkedin.com/in/luqmanul-hakim-44a600217#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](linkedin.com/in/luqmanul-hakim-44a600217#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/thislqmin/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/thislqmin/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](linkedin.com/in/luqmanul-hakim#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](linkedin.com/in/luqmanul-hakim#gh-dark-mode-only)
+
+
 
 
 
