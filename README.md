@@ -1,4 +1,4 @@
-# Hi there, I'm Luqman - a.k.a [thislqmin] 👋
+# Hi visitor, I'm Luqman - a.k.a [thislqmin] 👋
 ## About me:
 - 🌱 I’m currently learning Laravel & Angular
 - 👯 I’m looking to collaborate as Web Developers
